@@ -1,5 +1,4 @@
-'''
-Table of Contents
+'''Table of Contents
 What are Strings?
 Indexing
 Negative Indexing

@@ -1,5 +1,4 @@
-'''
-Table of Contents
+'''Table of Contents
 Say "Hello" to the world in Python
 What version of Python are we using?
 Writing comments in Python
